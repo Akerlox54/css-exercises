@@ -19,7 +19,7 @@ The number of cards lined up in that section will change based on the width of y
 On a smaller screen it will look like this:
 
 ![smaller](./desired-outcome-smaller.png)
-
+    
 Note: The emojis may instead show up as one or several text symbols (e.g. &#9734;&#9794;) if you don't have an emoji-based font family installed on your operating system. This does not affect the exercise and can be ignored.
 
 ### Self Check
